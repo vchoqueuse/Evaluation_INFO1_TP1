@@ -1,0 +1,215 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		0A2AC5281DBA136A00A8F34D /* le juste prix.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "le juste prix.c"; sourceTree = "<group>"; };
+		0A2AC5291DBA136A00A8F34D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		0A2AC52B1DBA136A00A8F34D /* le juste prix.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "le juste prix.c"; sourceTree = "<group>"; };
+		0A2AC52C1DBA136A00A8F34D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		0A2AC52E1DBA136A00A8F34D /* DESAMBLANC_Juste_Prix.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = DESAMBLANC_Juste_Prix.c; sourceTree = "<group>"; };
+		0A2AC52F1DBA136A00A8F34D /* DESAMBLANC_Martigale.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = DESAMBLANC_Martigale.c; sourceTree = "<group>"; };
+		0A2AC5301DBA136A00A8F34D /* DESAMBLANC_Pari_mere.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = DESAMBLANC_Pari_mere.c; sourceTree = "<group>"; };
+		0A2AC5311DBA136A00A8F34D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		0A2AC5331DBA136A00A8F34D /* DESIDERI juste_prix.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "DESIDERI juste_prix.c"; sourceTree = "<group>"; };
+		0A2AC5341DBA136A00A8F34D /* DESIDERI Martingale.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "DESIDERI Martingale.c"; sourceTree = "<group>"; };
+		0A2AC5351DBA136A00A8F34D /* DESIDERI Pari_mere.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "DESIDERI Pari_mere.c"; sourceTree = "<group>"; };
+		0A2AC5361DBA136A00A8F34D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		0A2AC5381DBA136A00A8F34D /* Le_juste_prix_Dalil.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Le_juste_prix_Dalil.c; sourceTree = "<group>"; };
+		0A2AC5391DBA136A00A8F34D /* Martingale_Dalil.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Martingale_Dalil.c; sourceTree = "<group>"; };
+		0A2AC53A1DBA136A00A8F34D /* Pari_Mere_Dalil.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Pari_Mere_Dalil.c; sourceTree = "<group>"; };
+		0A2AC53B1DBA136A00A8F34D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		0A2AC53D1DBA136A00A8F34D /* juste_prix.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = juste_prix.c; sourceTree = "<group>"; };
+		0A2AC53F1DBA136A00A8F34D /* martingale.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = martingale.c; sourceTree = "<group>"; };
+		0A2AC5401DBA136A00A8F34D /* pari_mere.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = pari_mere.c; sourceTree = "<group>"; };
+		0A2AC5411DBA136A00A8F34D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		0A2AC5431DBA136A00A8F34D /* Juste_Prix.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Juste_Prix.c; sourceTree = "<group>"; };
+		0A2AC5441DBA136A00A8F34D /* Paris_mere.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Paris_mere.c; sourceTree = "<group>"; };
+		0A2AC5451DBA136A00A8F34D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		0A2AC5471DBA137900A8F34D /* Juste_Prix_Orieux.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Juste_Prix_Orieux.c; sourceTree = "<group>"; };
+		0A2AC5481DBA137900A8F34D /* Martingale_Orieux.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Martingale_Orieux.c; sourceTree = "<group>"; };
+		0A2AC5491DBA137900A8F34D /* Pari_Mere_Orieux.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Pari_Mere_Orieux.c; sourceTree = "<group>"; };
+		0A2AC54A1DBA137900A8F34D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		0A2AC54C1DBA137900A8F34D /* exo1 Alexandre V.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "exo1 Alexandre V.c"; sourceTree = "<group>"; };
+		0A2AC54D1DBA137900A8F34D /* exo2 Alexandre V.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "exo2 Alexandre V.c"; sourceTree = "<group>"; };
+		0A2AC54E1DBA137900A8F34D /* exo3 Alexandre V.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "exo3 Alexandre V.c"; sourceTree = "<group>"; };
+		0A2AC54F1DBA137900A8F34D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		0A2AC5501DBA5A9C00A8F34D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		0A2AC5201DBA135B00A8F34D = {
+			isa = PBXGroup;
+			children = (
+				0A2AC5501DBA5A9C00A8F34D /* README.md */,
+				0A2AC5461DBA137900A8F34D /* ORIEUX Aymeric */,
+				0A2AC54B1DBA137900A8F34D /* VERDIER Alexandre */,
+				0A2AC5271DBA136A00A8F34D /* AL HARTHI Abdullah */,
+				0A2AC52A1DBA136A00A8F34D /* AL QURASHI Mansour */,
+				0A2AC52D1DBA136A00A8F34D /* DESAMBLANC Tanguy */,
+				0A2AC5321DBA136A00A8F34D /* DESIDERI Yannis */,
+				0A2AC5371DBA136A00A8F34D /* HAMED Dalil */,
+				0A2AC53C1DBA136A00A8F34D /* MBAYE Dieynaba */,
+				0A2AC5421DBA136A00A8F34D /* MOREAU Pierre */,
+			);
+			sourceTree = "<group>";
+		};
+		0A2AC5271DBA136A00A8F34D /* AL HARTHI Abdullah */ = {
+			isa = PBXGroup;
+			children = (
+				0A2AC5281DBA136A00A8F34D /* le juste prix.c */,
+				0A2AC5291DBA136A00A8F34D /* README.md */,
+			);
+			name = "AL HARTHI Abdullah";
+			path = "../AL HARTHI Abdullah";
+			sourceTree = "<group>";
+		};
+		0A2AC52A1DBA136A00A8F34D /* AL QURASHI Mansour */ = {
+			isa = PBXGroup;
+			children = (
+				0A2AC52B1DBA136A00A8F34D /* le juste prix.c */,
+				0A2AC52C1DBA136A00A8F34D /* README.md */,
+			);
+			name = "AL QURASHI Mansour";
+			path = "../AL QURASHI Mansour";
+			sourceTree = "<group>";
+		};
+		0A2AC52D1DBA136A00A8F34D /* DESAMBLANC Tanguy */ = {
+			isa = PBXGroup;
+			children = (
+				0A2AC52E1DBA136A00A8F34D /* DESAMBLANC_Juste_Prix.c */,
+				0A2AC52F1DBA136A00A8F34D /* DESAMBLANC_Martigale.c */,
+				0A2AC5301DBA136A00A8F34D /* DESAMBLANC_Pari_mere.c */,
+				0A2AC5311DBA136A00A8F34D /* README.md */,
+			);
+			name = "DESAMBLANC Tanguy";
+			path = "../DESAMBLANC Tanguy";
+			sourceTree = "<group>";
+		};
+		0A2AC5321DBA136A00A8F34D /* DESIDERI Yannis */ = {
+			isa = PBXGroup;
+			children = (
+				0A2AC5331DBA136A00A8F34D /* DESIDERI juste_prix.c */,
+				0A2AC5341DBA136A00A8F34D /* DESIDERI Martingale.c */,
+				0A2AC5351DBA136A00A8F34D /* DESIDERI Pari_mere.c */,
+				0A2AC5361DBA136A00A8F34D /* README.md */,
+			);
+			name = "DESIDERI Yannis";
+			path = "../DESIDERI Yannis";
+			sourceTree = "<group>";
+		};
+		0A2AC5371DBA136A00A8F34D /* HAMED Dalil */ = {
+			isa = PBXGroup;
+			children = (
+				0A2AC5381DBA136A00A8F34D /* Le_juste_prix_Dalil.c */,
+				0A2AC5391DBA136A00A8F34D /* Martingale_Dalil.c */,
+				0A2AC53A1DBA136A00A8F34D /* Pari_Mere_Dalil.c */,
+				0A2AC53B1DBA136A00A8F34D /* README.md */,
+			);
+			name = "HAMED Dalil";
+			path = "../HAMED Dalil";
+			sourceTree = "<group>";
+		};
+		0A2AC53C1DBA136A00A8F34D /* MBAYE Dieynaba */ = {
+			isa = PBXGroup;
+			children = (
+				0A2AC53D1DBA136A00A8F34D /* juste_prix.c */,
+				0A2AC53F1DBA136A00A8F34D /* martingale.c */,
+				0A2AC5401DBA136A00A8F34D /* pari_mere.c */,
+				0A2AC5411DBA136A00A8F34D /* README.md */,
+			);
+			name = "MBAYE Dieynaba";
+			path = "../MBAYE Dieynaba";
+			sourceTree = "<group>";
+		};
+		0A2AC5421DBA136A00A8F34D /* MOREAU Pierre */ = {
+			isa = PBXGroup;
+			children = (
+				0A2AC5431DBA136A00A8F34D /* Juste_Prix.c */,
+				0A2AC5441DBA136A00A8F34D /* Paris_mere.c */,
+				0A2AC5451DBA136A00A8F34D /* README.md */,
+			);
+			name = "MOREAU Pierre";
+			path = "../MOREAU Pierre";
+			sourceTree = "<group>";
+		};
+		0A2AC5461DBA137900A8F34D /* ORIEUX Aymeric */ = {
+			isa = PBXGroup;
+			children = (
+				0A2AC5471DBA137900A8F34D /* Juste_Prix_Orieux.c */,
+				0A2AC5481DBA137900A8F34D /* Martingale_Orieux.c */,
+				0A2AC5491DBA137900A8F34D /* Pari_Mere_Orieux.c */,
+				0A2AC54A1DBA137900A8F34D /* README.md */,
+			);
+			name = "ORIEUX Aymeric";
+			path = "../ORIEUX Aymeric";
+			sourceTree = "<group>";
+		};
+		0A2AC54B1DBA137900A8F34D /* VERDIER Alexandre */ = {
+			isa = PBXGroup;
+			children = (
+				0A2AC54C1DBA137900A8F34D /* exo1 Alexandre V.c */,
+				0A2AC54D1DBA137900A8F34D /* exo2 Alexandre V.c */,
+				0A2AC54E1DBA137900A8F34D /* exo3 Alexandre V.c */,
+				0A2AC54F1DBA137900A8F34D /* README.md */,
+			);
+			name = "VERDIER Alexandre";
+			path = "../VERDIER Alexandre";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		0A2AC5211DBA135B00A8F34D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+			};
+			buildConfigurationList = 0A2AC5241DBA135B00A8F34D /* Build configuration list for PBXProject "devoir1_Info1_2016" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 0A2AC5201DBA135B00A8F34D;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		0A2AC5251DBA135B00A8F34D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		0A2AC5261DBA135B00A8F34D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0A2AC5241DBA135B00A8F34D /* Build configuration list for PBXProject "devoir1_Info1_2016" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0A2AC5251DBA135B00A8F34D /* Debug */,
+				0A2AC5261DBA135B00A8F34D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0A2AC5211DBA135B00A8F34D /* Project object */;
+}
