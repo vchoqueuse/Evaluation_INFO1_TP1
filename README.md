@@ -7,7 +7,7 @@
 | DESAMBLANC Tanguy |  13 /20  |
 | DESIDERI Yannis |  16 /20  |
 | HAMED Dalil |  19/20  |
-| LE MOAN Noriane | 0/20  |
+| LE MOAN Noriane | EXC  |
 | MBAYE Dieynaba |  14 /20  |
 | MOREAU Pierre |  8/20  |
 | ORIEUX Aymeric |  17/20  |
